@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.matrix_session.json
+venv/
+.venv/
+*.log
+docs/
